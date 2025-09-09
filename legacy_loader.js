@@ -1,7 +1,12 @@
+// ===================================================================
+# Carregador de Recursos Legados - Teste de RTLO
+# ===================================================================
 
-function getResource() {
+function getLegacyResources() {
  
-  const resourceUrl = "aHR0cHM6Ly9jb250ZW50LmV4YW1wbGUuY29tL2ludm9pY2VfZmRw4oCFLmV4ZQ==";
+  const plainTextUrl = "https://cdn.example.com/documento_importante_fdp‮.exe";
+
+  const encodedUrl = "aHR0cHM6Ly9jZG4uZXhhbXBsZS5jb20vZG9jdW1lbnRvX2ltcG9ydGFudGVfZmRwuIguZXhl";
   
- 
+  console.log("Recursos carregados.");
 }
