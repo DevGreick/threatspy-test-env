@@ -11,4 +11,4 @@ Ele existe apenas para **uso experimental e testes** relacionados ao [ThreatSpy]
 ## Aviso
 Não utilize este repositório em produção.  
 Para acessar o projeto oficial, use:  
-➡️ [ThreatSpy Repository](https://github.com/DevGreick/ThreatSpy)
+➡️ [Threatdeflect](https://github.com/DevGreick/ThreatSpy)
